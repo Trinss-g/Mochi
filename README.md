@@ -143,7 +143,7 @@ Animation animations[] = {
 
 ### Performance
 - Frame rate: Optimized for smooth 60-120ms animations
-- Memory usage: ~5% RAM, ~20% Flash
+- Memory usage: ~5% RAM, ~80% Flash
 - Power efficient for battery-powered applications
 
 ## 🤝 Contributing
