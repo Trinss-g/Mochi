@@ -163,6 +163,8 @@ This project is licensed under the MIT License.
 - **U8G2 Library**: Excellent OLED display library by Oliver Kraus
 - **PlatformIO**: Making embedded development easier
 - **Seeed Studio**: For the awesome XIAO ESP32C3 board
+- **[Upir](http://www.youtube.com/@upir_upir)**: For the inspiring YouTube channel
+- **[image2cpp](https://javl.github.io/image2cpp/)**: Great tool for converting images to byte arrays
 
 ## 📞 Support
 
